@@ -5,6 +5,8 @@ Hijack visible windows device context in order to draw an image in every visible
 ![alt text](https://github.com/MorcilloSanz/WindowHijacker/blob/main/img/demo.gif)
 
 ## Warning
+Use Visual Studio for compiling
+
 You always need a .png image called **img.png** in the location of the executable 
 
 ## Disclaimer
