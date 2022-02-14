@@ -1,5 +1,5 @@
 # WindowHijacker
-Hijack visible windows device context in order to draw an image in every visible window
+Draw an image in every visible window
 
 ## Demonstration
 ![alt text](https://github.com/MorcilloSanz/WindowHijacker/blob/main/img/demo.gif)
