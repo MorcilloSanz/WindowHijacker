@@ -1,7 +1,7 @@
 # WindowHijacker
 Hijack visible windows device context in order to draw an image in every visible window
 
-## Reading image process
+## Reading png image process
 
 * Image as a buffer:
 
@@ -33,6 +33,7 @@ being r, g, b, a the position of the colors red, green, blue and alpha in the **
 In order to center the image in the window:
 
 **x = (W - n) / 2**
+
 **y = (H - m) / 2**
 
 where W, H are the width and height of the current window and n, m are the width and height of the image.
