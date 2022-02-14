@@ -37,7 +37,7 @@ In order to center the image in the window:
 
 where W, H are the width and height of the current window and n, m are the width and height of the image.
 
-'''c
+```c
   for(Window& window : windows) {
     for(int i = 0; i < n; i ++) {
       for(int j = 0; j < m; i ++) {
@@ -50,8 +50,7 @@ where W, H are the width and height of the current window and n, m are the width
       }
     }
   }
-'''
-
+`
 ## Disclaimer
 
 I am not responsible for any misuse that may be given to this code. It is shared for ethical purposes only
