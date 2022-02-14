@@ -50,7 +50,8 @@ where W, H are the width and height of the current window and n, m are the width
       }
     }
   }
-`
+```
+
 ## Disclaimer
 
 I am not responsible for any misuse that may be given to this code. It is shared for ethical purposes only
